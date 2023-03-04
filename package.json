@@ -35,7 +35,7 @@
     "eslint-plugin-prettier": "^2.6.2",
     "jest": "28.1.0",
     "prettier": "^1.13.7",
-    "rewire": "^4.0.1"
+    "rewire": "^5.0.0"
   },
   "jest": {
     "clearMocks": true
